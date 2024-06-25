@@ -1,0 +1,6 @@
+@Distributed.API.Public_HostAddress = http://localhost:5156
+
+GET {{Distributed.API.Public_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
